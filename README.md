@@ -1,4 +1,4 @@
-### Oie, eu sou a Jenifer 👾🖖
+### 👾 Oie, eu sou a Jenifer 👾
 
 - 💼 Programadora aprendiz - Back-end 🖳 
 - 📚 Principais estudos: .NET, Delphi 👩‍🏫
