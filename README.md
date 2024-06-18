@@ -1,10 +1,7 @@
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!👾+me+chamo+Jenifer!;" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=false&vCenter=true&width=500&height=70&duration=3500&lines=👾+olá!+me+chamo+Jenifer!👾;" />
 
 - 💼 Programadora aprendiz - Back-end 🖳 
-- 📚 Principais estudos: .NET, Delphi 👩‍🏫
+- 📚 Principais estudos: .NET, Delphi, Firebird 👩‍🏫
 - 🎓 Cursando Administração, Análise e des. de Sistemas 👩‍🎓
 
 <div> 
@@ -13,8 +10,9 @@
   <a href="www.linkedin.com/in/jenifer-mattes-b04829228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2>⚒️ Linguagens e Ferramentas ⚒️</h2>
-<br>
+<h3>⚒️ Linguagens e Ferramentas ⚒️</h3>
+
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,figma,git,java,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,java,cs,dotnet" />
+  <img scr="https://i.makeagif.com/media/9-09-2015/uBGr-4.gif">
 </div>
