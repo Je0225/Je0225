@@ -16,5 +16,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,java,cs,dotnet" />
   <img scr="https://i.makeagif.com/media/9-09-2015/uBGr-4.gif">
 </div>
-
-![Snake animation](https://github.com/Je0225/Je0225/blob/output/github-contribution-grid-snake.svg)
