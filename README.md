@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=false&vCenter=true&width=500&height=70&duration=3500&lines=👾+olá!+me+chamo+Jenifer!👾;" />
 
-- 💼 Junior - Backend 🖳 
+- 💼 Backend 🖳 
 - 📚 Principais estudos: .NET, Delphi, Firebird 👩‍🏫
 - 🎓 Cursando Administração, Análise e des. de Sistemas 👩‍🎓
 
